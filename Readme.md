@@ -1,4 +1,4 @@
-# Crowdtesting home assignment
+# Reddit automation
 This is a small project of test automation for some functionality of https://reddit.com
 
 # Environment setup
